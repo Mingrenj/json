@@ -1,4 +1,4 @@
-Airline,Airline ID,Source airport,Source airport ID,Destination airport,Destination airport ID,Codeshare,Stops,Equipment
+Airline,Airline ID,origin,Source airport ID,destination,Destination airport ID,Codeshare,Stops,Equipment
 AA,24,LPA,1054,MAD,1229,Y,0,320
 AB,214,ACE,1055,FUE,1051,,0,321 320
 AB,214,AGP,1230,PMI,3998,,0,320 321
